@@ -1,0 +1,72 @@
+Clients: 
+
+Surname: Drozdova   Name: Elena
+age: 24,   num_ticket: 54625{'r': '1'}
+
+Surname: Vorozhtsov   Name: Sergey
+age: 15,   num_ticket: 53385{'r': '1'}
+
+Surname: Malkova   Name: Olga
+age: 46,   num_ticket: 59025{'r': '1'}
+
+Surname: Vorozhtsov   Name: Timofey
+age: 34,   num_ticket: 59005{'r': '1'}
+
+Surname: Fokina   Name: Luda
+age: 19,   num_ticket: 54095{'r': '1'}
+
+Surname: Kremleva   Name: Natalia
+age: 38,   num_ticket: 57845{'r': '1'}
+
+Surname: Toropov   Name: Makar
+age: 26,   num_ticket: 51105{'r': '1'}
+
+Surname: Listunova   Name: Zhanna
+age: 31,   num_ticket: 50074{'r': '1'}
+
+Surname: Skuratov   Name: Grigory
+age: 50,   num_ticket: 50001{'r': '1'}
+
+Surname: Krivov   Name: Anatoly
+age: 23,   num_ticket: 63758{'r': '1'}
+
+Surname: Olkhovskiy   Name: Mikhail
+age: 17,   num_ticket: 86753{'r': '1'}
+
+Surname: Yatsenko    Name: Vyacheslav
+age: 22,   num_ticket: 90074{'r': '1'}
+
+Surname: Korshunova   Name: Maria
+age: 34,   num_ticket: 12834{'r': '1'}
+
+Surname: Schultz   Name: George
+age: 28,   num_ticket: 08462{'r': '1'}
+
+Surname: Antinov    Name: Semen
+age: 21,   num_ticket: 27487{'r': '1'}
+
+
+
+ Trainers: 
+
+Surname: Kolesnik Name: Nikolay
+age: 45,num_udost: 66843, doljnost: Trainer
+
+Surname: Fedorova Name: Olga
+age: 34,num_udost: 29673, doljnost: Fitness instructor
+
+Surname: Kovalenko Name: Yuli
+age: 42,num_udost: 42380, doljnost: Fitness instructor
+
+Surname: Kovalenko Name: Elena
+age: 36,num_udost: 42380, doljnost: Fitness instructor
+
+Surname: Baskakov Name: Artem
+age: 41,num_udost: 47132, doljnost: Director
+
+Surname: Samoylov Name: Timofey
+age: 34,num_udost: 93441, doljnost: Trainer
+
+Surname: Yakunichev Name: Daniel
+age: 27,num_udost: 93441, doljnost: Trainer
+
